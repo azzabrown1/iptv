@@ -1,277 +1,109 @@
 #EXTM3U
-#EXTINF:0,UK: BBC 1 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3460
-#EXTINF:0,UK: BBC 2 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3459
-#EXTINF:0,UK: BBC 3 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4931
-#EXTINF:0,UK: BBC 4 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4930
-#EXTINF:0,UK: ITV 1
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/750
-#EXTINF:0,UK: ITV 2
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/751
-#EXTINF:0,UK: ITV 3
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/752
-#EXTINF:0,UK: ITV 4
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/753
-#EXTINF:0,UK: Channel 4 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4899
-#EXTINF:0,UK: CHANNEL 5 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/814
-#EXTINF:0,UK: ITV 2 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4925
-#EXTINF:0,UK: ITV 3 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4924
-#EXTINF:0,UK: Nickelodeon
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3353
-#EXTINF:0,UK: NICKTOONS
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3611
-#EXTINF:0,UK: NICK JUNIOR
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3443
-#EXTINF:0,UK: GOLD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3607
-#EXTINF:0,UK: Film 4
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3362
-#EXTINF:0,UK: Dave
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4929
-#EXTINF:0,UK: E4
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4889
-#EXTINF:0,UK: Alibi
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4900
-#EXTINF:0,UK: Travel Channel
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4893
-#EXTINF:0,UK: Sky Two
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3350
-#EXTINF:0,UK: SyFy
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4896
-#EXTINF:0,UK: Sky News
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2905
-#EXTINF:0,UK: BBC News
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3349
-#EXTINF:0,UK: Channel 5 USA
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3365
-#EXTINF:0,UK: Sky Sports News HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4905
-#EXTINF:0,UK: Horror Channel
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2920
-#EXTINF:0,UK: Food Network
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2925
-#EXTINF:0,UK:  Box Nation
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4909
-#EXTINF:0,UK: Comedy Central
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2927
-#EXTINF:0,UK: ITV
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/818
-#EXTINF:0,UK: National Geographic HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4898
-#EXTINF:0,UK: NAT GEO WILD HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3444
-#EXTINF:0,UK: Discovery Investigation
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4901
-#EXTINF:0,UK: Discovery HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4928
-#EXTINF:0,UK: Animal Planet HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3369
-#EXTINF:0,UK: Discovery History
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2926
-#EXTINF:0,UK: Discovery Science
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3360
-#EXTINF:0,UK: NAT GEO WILD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2917
-#EXTINF:0,UK: HISTORY CHANNEL HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3455
-#EXTINF:0,UK: Sky Select HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4915
-#EXTINF:0,UK: Sky Scifi HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4916
-#EXTINF:0,UK: Sky Movies Modern Great
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4917
-#EXTINF:0,UK: SKY Cinema FAMILY HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3605
-#EXTINF:0,UK: Sky Cinema Family
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3342
-#EXTINF:0,UK: Sky Movies Drama HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3343
-#EXTINF:0,UK: Sky Disney HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3344
-#EXTINF:0,UK: SKY MOVIES DRAMA
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1895
-#EXTINF:0,UK: Sky Premiere HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/794
-#EXTINF:0,UK: SKY MOVIES COMEDY
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1896
-#EXTINF:0,UK: SKY ACTION
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1897
-#EXTINF:0,UK: SKY ACTION HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3433
-#EXTINF:0,UK: CBS Reality
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4894
-#EXTINF:0,UK: RTE 1 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4920
-#EXTINF:0,UK: Racing UK HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4907
-#EXTINF:0,UK: Pick
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4891
-#EXTINF:0,UK: ITV 1 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3454
-#EXTINF:0,UK: SKY SPORTS NEWS
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3431
-#EXTINF:0,UK: SKY SPORTS CRICKET
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1900
-#EXTINF:0,UK: SKY SPORTS CRICKET HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2902
-#EXTINF:0,UK: Sky Sports Golf HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2900
-#EXTINF:0,UK: Sky Sports Premier League HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3331
-#EXTINF:0,UK: Sky Sports Main Event HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/2903
-#EXTINF:0,UK: SKY SPORTS ACTION
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1898
-#EXTINF:0,UK: Sky Sports Golf
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1899
-#EXTINF:0,UK: Premier Sports
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/4897
-#EXTINF:0,UK: SKY ONE HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3435
-#EXTINF:0,UK: SKY ARTS HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3606
-#EXTINF:0,UK: RTE 2 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3450
-#EXTINF:0,UK: MUTV
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3338
-#EXTINF:0,UK: More 4
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3358
-#EXTINF:0,UK: LIVERPOOL FC
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3612
-#EXTINF:0,UK: DMAX
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3608
-#EXTINF:0,UK: CBS Drama
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3363
-#EXTINF:0,UK: CBS Action
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3364
-#EXTINF:0,UK: Box Nation HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/3339
-#EXTINF:0,UK: CARTOON NETWORK HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/5570
-#EXTINF:0,UK: Disney Junior
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/10838
-#EXTINF:0,UK: Disney XD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/10837
-#EXTINF:0,UK: Sky 1
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/10835
-#EXTINF:0,UK: TG4
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/10823
-#EXTINF:0,UK: W
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/10820
-#EXTINF:0,UK: Universal Channel HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/10821
-#EXTINF:0,UK: TV3
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11557
-#EXTINF:0,UK: 3e
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11558
-#EXTINF:0,UK: E
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11559
-#EXTINF:0,UK: EIR SPORT 1
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11620
-#EXTINF:0,UK: EIR SPORT 2
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11621
-#EXTINF:0,UK: Motors TV
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11622
-#EXTINF:0,UK: Sky Hits HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/11624
-#EXTINF:0,UK: 4 Seven
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13248
-#EXTINF:0,UK: At The Races
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12470
-#EXTINF:0,UK: Baby Tv
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12479
-#EXTINF:0,UK: BBC One Channel Islands
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13250
-#EXTINF:0,UK: BBC WORLD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13251
-#EXTINF:0,UK: BET
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13252
-#EXTINF:0,UK: Bloomberg
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13253
-#EXTINF:0,UK: Boomerang
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13254
-#EXTINF:0,UK: Boomerang HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12480
-#EXTINF:0,UK: Cartoonito
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13262
-#EXTINF:0,UK: CBBS
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13258
-#EXTINF:0,UK: CBebbies
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13259
-#EXTINF:0,UK: Challange HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13263
-#EXTINF:0,UK: Channel 5 Star
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12477
-#EXTINF:0,UK: Channel AKA
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13264
-#EXTINF:0,UK: Chart Show Hits
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13265
-#EXTINF:0,UK: CITV
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13260
-#EXTINF:0,UK: CNN
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13261
-#EXTINF:0,UK: Comedy Central Extra
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13266
-#EXTINF:0,UK: Discovery
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13267
-#EXTINF:0,UK: Discovery Home & Health
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13268
-#EXTINF:0,UK: Discovery Shed
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13269
-#EXTINF:0,UK: Discovery Turbo
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12481
-#EXTINF:0,UK: Disney Channel +1
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13270
-#EXTINF:0,UK: E +1
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13271
-#EXTINF:0,UK: FightBox HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12469
-#EXTINF:0,UK: FOX
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12474
-#EXTINF:0,UK: Hip Hop & R & B Music TV
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13256
-#EXTINF:0,UK: Home
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12476
-#EXTINF:0,UK: Sky Showcase
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12471
-#EXTINF:0,UK: TCM
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12472
-#EXTINF:0,UK: Watch
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12478
-#EXTINF:0,UK: Yesterday
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/12475
-#EXTINF:0,UK: Sky Sports Football HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13302
-#EXTINF:0,UK: BT Sport 1
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13300
-#EXTINF:0,UK: BT Sport 1 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13301
-#EXTINF:0,UK: BT Sport 2
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13298
-#EXTINF:0,UK: BT Sport 3
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13296
-#EXTINF:0,UK: BT Sport 3 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13297
-#EXTINF:0,UK: BT Sport ESPN
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13294
-#EXTINF:0,UK: BT Sport ESPN HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13295
-#EXTINF:0,UK: BT Sport Extra 2
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13292
-#EXTINF:0,UK: BT Sport Extra 4
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13290
-#EXTINF:0,UK: EUROSPORT 1 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13310
-#EXTINF:0,UK: EUROSPORT 2 HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13311
-#EXTINF:0,UK: Sky Sports Arena HD
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13785
-#EXTINF:0,UK: RTE NEWS NOW
-http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/34
+#EXTINF:-1,UK: 4 MUSIC HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74604
+#EXTINF:-1,UK: 4 Seven HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74572
+#EXTINF:-1,UK: 5 SELECT HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/86300
+#EXTINF:-1,UK: 5 Spike HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/75683
+#EXTINF:-1,UK: 5 Star
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/199160
+#EXTINF:-1,UK: 3E FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65175
+#EXTINF:-1,UK: 92 NEWS
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/133394
+#EXTINF:-1,UK: ABC News HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/96992
+#EXTINF:-1,UK: ABN TV
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/133396
+#EXTINF:-1,UK: Alibi FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/137150
+#EXTINF:-1,UK: ALJAZEERA HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/131284
+#EXTINF:-1,UK: AMC FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/63034
+#EXTINF:-1,UK: ANIMAL PLANET FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65023
+#EXTINF:-1,UK: Baby TV HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65125
+#EXTINF:-1,UK: BBC 1 HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/86279
+#EXTINF:-1,UK: BBC 2 FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74074
+#EXTINF:-1,UK: BBC 3 HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65184
+#EXTINF:-1,UK: BBC 4 HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65182
+#EXTINF:-1,UK: BBC Alba HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74735
+#EXTINF:-1,UK: BBC Earth
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/143751
+#EXTINF:-1,UK: BBC Entertainment HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/86281
+#EXTINF:-1,UK: BBC News HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65183
+#EXTINF:-1,UK: BBC Parliament
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/137160
+#EXTINF:-1,UK: BBC TV
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/209079
+#EXTINF:-1,UK: Best Direct
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/139647
+#EXTINF:-1,UK: BET HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74589
+#EXTINF:-1,UK: Bike Channel
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/99064
+#EXTINF:-1,UK: Blaze HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/75740
+#EXTINF:-1,UK: Bloomberg HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74743
+#EXTINF:-1,UK: BOOMERANG FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65126
+#EXTINF:-1,UK: BOX HITS HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65056
+#EXTINF:-1,UK: BT Sport HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/209470
+#EXTINF:-1,UK: C ITV HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74590
+#EXTINF:-1,UK: CAPITAL TV HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65061
+#EXTINF:-1,UK: CARTOON NETWORK FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74786
+#EXTINF:-1,UK: Cartoonito HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74593
+#EXTINF:-1,UK: CBBC HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74569
+#EXTINF:-1,UK: CBeebies HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/94696
+#EXTINF:-1,UK: CBS Action
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/155441
+#EXTINF:-1,UK: CBS Drama
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/155440
+#EXTINF:-1,UK: CBS Reality
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/150861
+#EXTINF:-1,UK: CGTN News
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/137270
+#EXTINF:-1,UK: Challenge HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74722
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74789
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/74790
+#EXTINF:-1,UK: Channel 5 Star
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/134144
+#EXTINF:-1,UK: Channel AKA
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/154650
+#EXTINF:-1,UK: Chart Show HITS HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65054
+#EXTINF:-1,UK: CHELSEA TV HD
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/65020
+#EXTINF:-1,UK: Club MTV
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/139650
+#EXTINF:-1,UK: Clubland TV
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/139572
+#EXTINF:-1,UK: CNBC
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/104258
+#EXTINF:-1,UK: CNN INTERNATIONAL
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/156144
+#EXTINF:-1,UK: CNN News
+http://l.land02.live:8080/kirchner0402/8MzjGoHWHc/159466
