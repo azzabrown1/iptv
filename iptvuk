@@ -1,42 +1,68 @@
-#EXTINF:-1,[UK] Sky Movies Thriller
-http://live.faucontv.com:8000/Salwa/Salwa/4261
-#EXTINF:-1,[UK] Sky Movies Showcase
-http://live.faucontv.com:8000/Salwa/Salwa/4260
-#EXTINF:-1,[UK] Sky Movies Select
-http://live.faucontv.com:8000/Salwa/Salwa/4259
-#EXTINF:-1,[UK] Sky Movies Sci-Fi
-http://live.faucontv.com:8000/Salwa/Salwa/4258
-#EXTINF:-1,[UK] Sky Movies Premiere
-http://live.faucontv.com:8000/Salwa/Salwa/4257
-#EXTINF:-1,[UK] Sky Movies Modern-Geant
-http://live.faucontv.com:8000/Salwa/Salwa/4256
-#EXTINF:-1,[UK] Sky Movies Family
-http://live.faucontv.com:8000/Salwa/Salwa/4255
-#EXTINF:-1,[UK] Sky Movies Drama
-http://live.faucontv.com:8000/Salwa/Salwa/4254
-#EXTINF:-1,[UK] Sky Movies Comedy
-http://live.faucontv.com:8000/Salwa/Salwa/4253
-#EXTINF:-1,[UK] Sky Movies Action & Adv
-http://live.faucontv.com:8000/Salwa/Salwa/4252
-#EXTINF:-1,[UK] Sky Living
-http://live.faucontv.com:8000/Salwa/Salwa/4251
-#EXTINF:-1,[UK] Sky Atlantic
-http://live.faucontv.com:8000/Salwa/Salwa/4250
-#EXTINF:-1,[UK] Sky Arts
-http://live.faucontv.com:8000/Salwa/Salwa/4249
-#EXTINF:-1,[UK] SKY 1 HD
-http://live.faucontv.com:8000/Salwa/Salwa/4248
-#EXTINF:-1,[UK] SET Max
-http://live.faucontv.com:8000/Salwa/Salwa/4313
-#EXTINF:-1,[UK] Sab TV (SET)
-http://live.faucontv.com:8000/Salwa/Salwa/4314
-#EXTINF:-1,[UK] S4C
-http://live.faucontv.com:8000/Salwa/Salwa/4247
-#EXTINF:-1,[UK] RTEjr
-http://live.faucontv.com:8000/Salwa/Salwa/4246
-#EXTINF:-1,[UK] Rte two
-http://live.faucontv.com:8000/Salwa/Salwa/4245
-#EXTINF:-1,[UK] Rte One
-http://live.faucontv.com:8000/Salwa/Salwa/4244
-#EXTINF:-1,[UK] RTE News Now
-http://live.faucontv.com:8000/Salwa/Salwa/4243
+#EXTINF:-1,**** United Kingdom ****
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/47734.m3u8
+#EXTINF:-1,UK:  Box Nation
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/4909.m3u8
+#EXTINF:-1,UK: 3e
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/11558.m3u8
+#EXTINF:-1,UK: 4 Music
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13247.m3u8
+#EXTINF:-1,UK: 4 Seven
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13248.m3u8
+#EXTINF:-1,UK: Alibi
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/4900.m3u8
+#EXTINF:-1,UK: Animal Planet HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/3369.m3u8
+#EXTINF:-1,UK: At The Races
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/12470.m3u8
+#EXTINF:-1,UK: At The Races UK
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/4913.m3u8
+#EXTINF:-1,UK: Baby Tv
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/12479.m3u8
+#EXTINF:-1,UK: BBC 1 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/3460.m3u8
+#EXTINF:-1,UK: BBC 2 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/3459.m3u8
+#EXTINF:-1,UK: BBC 3 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/4931.m3u8
+#EXTINF:-1,UK VIP: BBC 3 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/26792.m3u8
+#EXTINF:-1,UK VIP: BBC 4 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/26793.m3u8
+#EXTINF:-1,UK: BBC 4 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/4930.m3u8
+#EXTINF:-1,UK VIP: QUEST FHD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/26794.m3u8
+#EXTINF:-1,UK: BBC News
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/3349.m3u8
+#EXTINF:-1,UK: BBC One Channel Islands
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13250.m3u8
+#EXTINF:-1,UK: BBC WORLD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13251.m3u8
+#EXTINF:-1,UK: BET
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13252.m3u8
+#EXTINF:-1,UK: Bloomberg
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13253.m3u8
+#EXTINF:-1,UK: Boomerang
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13254.m3u8
+#EXTINF:-1,UK: Boomerang HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/12480.m3u8
+#EXTINF:-1,UK: Box Hits
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13255.m3u8
+#EXTINF:-1,UK: Box Nation HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/3339.m3u8
+#EXTINF:-1,UK: BT Sport 1
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13300.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13301.m3u8
+#EXTINF:-1,UK: BT Sport 2
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13298.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13299.m3u8
+#EXTINF:-1,UK: BT Sport 3
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13296.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13297.m3u8
+#EXTINF:-1,UK: BT Sport ESPN
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13294.m3u8
+#EXTINF:-1,UK: BT Sport ESPN HD
+
