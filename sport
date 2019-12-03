@@ -1,42 +1,15 @@
-#EXTINF:-1,UK:Boomerang
-http://s.igiptv.com:8000/Hisham/hisham123/20032
-#EXTINF:-1,UK:Boxnation
-http://s.igiptv.com:8000/Hisham/hisham123/20033
-#EXTINF:-1,UK: BT Sport 1 HD
-http://s.igiptv.com:8000/Hisham/hisham123/20034
-#EXTINF:-1,UK: BT Sport 2 HD
-http://s.igiptv.com:8000/Hisham/hisham123/20035
-#EXTINF:-1,UK: BT Sport 3 HD
-http://s.igiptv.com:8000/Hisham/hisham123/20036
-#EXTINF:-1,UK:BT_Sports_ESPN
-http://s.igiptv.com:8000/Hisham/hisham123/20037
-#EXTINF:-1,UK:BT_SPORT_1
-http://s.igiptv.com:8000/Hisham/hisham123/20038
-#EXTINF:-1,UK:BT_SPORT_2
-http://s.igiptv.com:8000/Hisham/hisham123/20039
-#EXTINF:-1,UK:BT_SPORT_3
-http://s.igiptv.com:8000/Hisham/hisham123/20040
-#EXTINF:-1,UK:BT_Sport_Extra_1
-http://s.igiptv.com:8000/Hisham/hisham123/20041
-#EXTINF:-1,UK:BT_Sport_Extra_2
-http://s.igiptv.com:8000/Hisham/hisham123/20042
-#EXTINF:-1,UK:BT_Sport_Extra_3
-http://s.igiptv.com:8000/Hisham/hisham123/20043
-#EXTINF:-1,UK:BT_Sport_Extra_4
-http://s.igiptv.com:8000/Hisham/hisham123/20044
-#EXTINF:-1,UK:BT_Sport_Extra_5
-http://s.igiptv.com:8000/Hisham/hisham123/20045
-#EXTINF:-1,UK: Cartoon Network HD
-http://s.igiptv.com:8000/Hisham/hisham123/20048
-#EXTINF:-1,UK:CBBC
-http://s.igiptv.com:8000/Hisham/hisham123/20049
-#EXTINF:-1,UK: BBC CBeebies HD
-http://s.igiptv.com:8000/Hisham/hisham123/20050
-#EXTINF:-1,UK: CBS Action
-http://s.igiptv.com:8000/Hisham/hisham123/20051
-#EXTINF:-1,UK: CBS Reality
-http://s.igiptv.com:8000/Hisham/hisham123/20052
-#EXTINF:-1,UK:Celtic_TV (Live_During_SPL)
-http://s.igiptv.com:8000/Hisham/hisham123/20053
-#EXTINF:-1,UK: China History Channel
-http://s.igiptv.com:8000/Hisham/hisham123/20054
+#EXTM3U
+#EXTINF:-1,Sky Sports Action
+http://gorillaiptv.online:25461/ian72/72ian/948
+#EXTINF:-1,Sky Sports Arena HD
+http://gorillaiptv.online:25461/ian72/72ian/942
+#EXTINF:-1,Sky Sports Arena
+http://gorillaiptv.online:25461/ian72/72ian/941
+#EXTINF:-1,Sky Sports Cricket HD
+http://gorillaiptv.online:25461/ian72/72ian/951
+#EXTINF:-1,Sky Sports Cricket
+http://gorillaiptv.online:25461/ian72/72ian/950
+#EXTINF:-1,Sky Sports F1 HD
+http://gorillaiptv.online:25461/ian72/72ian/938
+#EXTINF:-1,Sky Sports F1
+http://gorillaiptv.online:25461/ian72/72ian/937
