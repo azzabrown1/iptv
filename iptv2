@@ -1,58 +1,37 @@
-#EXTINF:-1,|.UK.| BT SPORT ESPN
-http://185.233.185.248:25443/corine/123456/31041
-#EXTINF:-1,|.UK.| BT SPORT ESPN FHD
-http://185.233.185.248:25443/corine/123456/30906
-#EXTINF:-1,|.UK.| BT SPORT EXTRA 1
-http://185.233.185.248:25443/corine/123456/31037
-#EXTINF:-1,|.UK.| BT SPORT EXTRA 2
-http://185.233.185.248:25443/corine/123456/31038
-#EXTINF:-1,|.UK.| BT SPORT EXTRA 3
-http://185.233.185.248:25443/corine/123456/31039
-#EXTINF:-1,|.UK.| BT SPORT EXTRA 4
-http://185.233.185.248:25443/corine/123456/31040
-#EXTINF:-1,|.UK.| EIR SPORT 1
-http://185.233.185.248:25443/corine/123456/31055
-#EXTINF:-1,|.UK.| EIR SPORT 2
-http://185.233.185.248:25443/corine/123456/31056
-#EXTINF:-1,|.UK.| EUROSPORT 1
-http://185.233.185.248:25443/corine/123456/31057
-#EXTINF:-1,|.UK.| EUROSPORT 1 FHD
-http://185.233.185.248:25443/corine/123456/30890
-#EXTINF:-1,|.UK.| EUROSPORT 2
-http://185.233.185.248:25443/corine/123456/31058
-#EXTINF:-1,|.UK.| EUROSPORT 2 FHD
-http://185.233.185.248:25443/corine/123456/30891
-#EXTINF:-1,|.UK.| PREMIERE SPORTS
-http://185.233.185.248:25443/corine/123456/31024
-#EXTINF:-1,|.UK.| BOX NATION FHD
-http://185.233.185.248:25443/corine/123456/30903
-#EXTINF:-1,|.UK.| MOTORS TV FHD
-http://185.233.185.248:25443/corine/123456/30960
-#EXTINF:-1,|.UK.| MANCHESTER UNITED TV
-http://185.233.185.248:25443/corine/123456/30958
-#EXTINF:-1,|.UK.| CHELSEA FC TV (MATCHTIME)
-http://185.233.185.248:25443/corine/123456/31047
-#EXTINF:-1,|.UK.| CELTIC FC TV (MATCHTIME)
-http://185.233.185.248:25443/corine/123456/30894
-#EXTINF:-1,|.UK.| RANGERS FC TV (MATCHTIME)
-http://185.233.185.248:25443/corine/123456/30893
-#EXTINF:-1,|.UK.| RACING TV (MATCHTIME)
-http://185.233.185.248:25443/corine/123456/31078
-#EXTINF:-1,|.UK.| EPL 1
-http://185.233.185.248:25443/corine/123456/59363
-#EXTINF:-1,|.UK.| EPL 2
-http://185.233.185.248:25443/corine/123456/59364
-#EXTINF:-1,|.UK.| EPL 3
-http://185.233.185.248:25443/corine/123456/59365
-#EXTINF:-1,|.UK.| EPL 4
-http://185.233.185.248:25443/corine/123456/59366
-#EXTINF:-1,|.UK.| EPL 5
-http://185.233.185.248:25443/corine/123456/59367
-#EXTINF:-1,|.UK.| EPL 6
-http://185.233.185.248:25443/corine/123456/59368
-#EXTINF:-1,|.UK.| EPL 7
-http://185.233.185.248:25443/corine/123456/59369
-#EXTINF:-1,|.UK.| EPL 8
-http://185.233.185.248:25443/corine/123456/59370
-#EXTINF:-1,|.UK.| EPL 9
-http://185.233.185.248:25443/corine/123456/59371
+#EXTM3U
+#EXTINF:-1,|AR| beINSPORTS NEWS HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/135.m3u8
+#EXTINF:-1,|AR| beINSPORTS HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/136.m3u8
+#EXTINF:-1,AR:BEINSPORTS-1.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2771.m3u8
+#EXTINF:-1,AR:BEINSPORTS-1.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2772.m3u8
+#EXTINF:-1,AR:BEINSPORTS-2.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2773.m3u8
+#EXTINF:-1,AR:BEINSPORTS-2.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2774.m3u8
+#EXTINF:-1,AR:BEINSPORTS-3.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2775.m3u8
+#EXTINF:-1,AR:BEINSPORTS-3.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2776.m3u8
+#EXTINF:-1,AR:BEINSPORTS-4.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2777.m3u8
+#EXTINF:-1,AR:BEINSPORTS-4.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2778.m3u8
+#EXTINF:-1,AR:BEINSPORTS-5.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2779.m3u8
+#EXTINF:-1,AR:BEINSPORTS-5.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2780.m3u8
+#EXTINF:-1,AR:BEINSPORTS-6.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2781.m3u8
+#EXTINF:-1,AR:BEINSPORTS-6.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2782.m3u8
+#EXTINF:-1,AR:BEINSPORTS-7.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2783.m3u8
+#EXTINF:-1,AR:BEINSPORTS-7.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2784.m3u8
+#EXTINF:-1,AR:BEINSPORTS-8.HD
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2785.m3u8
+#EXTINF:-1,AR:BEINSPORTS-8.HD.BACK-UP
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2786.m3u8
