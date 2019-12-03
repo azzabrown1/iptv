@@ -1,58 +1,17 @@
-#EXTM3U
-#EXTINF:-1,|UK|  DISNEY CHANNEL
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23420
-#EXTINF:-1,|UK| DISNEY JUNIOR
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23419
-#EXTINF:-1,|UK| DISNEY XD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23418
-#EXTINF:-1,|UK| Nickelodeon
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23417
-#EXTINF:-1,|UK|  NICKELODEON JR
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23416
-#EXTINF:-1,|UK| Nick_Jr.2
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23415
-#EXTINF:-1,|UK| Nick_Jr.1
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23414
-#EXTINF:-1,|UK| NICKTOONS
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23413
-#EXTINF:-1,|UK| Nicktoon Ireland
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23412
-#EXTINF:-1,|UK| BOOMERANG
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23411
-#EXTINF:-1,|UK| CARTOON NET
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23410
-#EXTINF:-1,|UK| CARTOONITO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23409
-#EXTINF:-1,|UK| BIABY
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23408
-#EXTINF:-1,|UK| TINY POP
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23407
-#EXTINF:-1,|UK| SKY ONE
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23405
-#EXTINF:-1,|UK| SKY TWO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23404
-#EXTINF:-1,|UK| BBC 1 HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23403
-#EXTINF:-1,|UK| BBC 3
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28350
-#EXTINF:-1,|UK| BBC 4
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28351
-#EXTINF:-1,|UK| ITV1 HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23402
-#EXTINF:-1,|UK| ITV2 HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23401
-#EXTINF:-1,|UK| ITV3 HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23400
-#EXTINF:-1,|UK| ITV4
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23399
-#EXTINF:-1,|UK| CHANNEL 4
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28355
-#EXTINF:-1,|UK| CHANNEL 5
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28356
-#EXTINF:-1,|UK| RTE ONE
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28352
-#EXTINF:-1,|UK| RTE TWO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28353
-#EXTINF:-1,|UK|  LONDON LIVE
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/28360
-#EXTINF:-1,|UK| GOLD
+#EXTINF:-1,[UK] Sky Movies Thriller
+http://live.faucontv.com:8000/Salwa/Salwa/4261
+#EXTINF:-1,[UK] Sky Movies Showcase
+http://live.faucontv.com:8000/Salwa/Salwa/4260
+#EXTINF:-1,[UK] Sky Movies Select
+http://live.faucontv.com:8000/Salwa/Salwa/4259
+#EXTINF:-1,[UK] Sky Movies Sci-Fi
+http://live.faucontv.com:8000/Salwa/Salwa/4258
+#EXTINF:-1,[UK] Sky Movies Premiere
+http://live.faucontv.com:8000/Salwa/Salwa/4257
+#EXTINF:-1,[UK] Sky Movies Modern-Geant
+http://live.faucontv.com:8000/Salwa/Salwa/4256
+#EXTINF:-1,[UK] Sky Movies Family
+http://live.faucontv.com:8000/Salwa/Salwa/4255
+#EXTINF:-1,[UK] Sky Movies Drama
+http://live.faucontv.com:8000/Salwa/Salwa/4254
+#EXTINF:-1,[UK] Sky Movies Comedy
