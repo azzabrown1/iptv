@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:0,Sky Sport 24 Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/261.ts
-#EXTINF:0,Sky Sport 1 Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/262.ts
-#EXTINF:0,Sky Sport Football Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/263.ts
-#EXTINF:0,Sky Sport Arena Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/264.ts
-#EXTINF:0,Sky Sport NBA Full-HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/265.ts
-#EXTINF:0,Sky Sport Collection Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/266.ts
-#EXTINF:0,Bike Channel Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/267.ts
-#EXTINF:0,EuroSport 1 Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/268.ts
-#EXTINF:0,EuroSport 2 Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/269.ts
-#EXTINF:0,Sky Formula 1 Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/270.ts
-#EXTINF:0,Sky  Moto GP Full HD
-http://bnt-team.ddns.net:8888/live/5ETM8zewQU/PaolinoCassese/271.ts
 #EXTINF:0,[UK] BT Sports 1
 http://136.243.50.104:80/mo10/mo10/528
 #EXTINF:0,[UK] BT Sports 2
@@ -71,3 +49,4 @@ http://136.243.50.104:80/mo10/mo10/535
 http://136.243.50.104:80/mo10/mo10/1157
 #EXTINF:0,[UK] Racing
 http://136.243.50.104:80/mo10/mo10/15452
+
